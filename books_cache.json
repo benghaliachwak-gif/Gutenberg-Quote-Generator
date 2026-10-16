@@ -1,0 +1,149 @@
+{
+    "crime and punishment": [
+        {
+            "book_title": "Crime and Punishment",
+            "author_name": "Dostoyevsky, Fyodor",
+            "quotes_list": [
+                "Above all, don't lie to yourself. The man who lies to himself and believes his own lies becomes unable to recognize truth, either in himself or in any one else.",
+                "Pain and suffering are always inevitable for a great intelligence and a deep heart.",
+                "Love all God's creation: the whole of it and every grain of it."
+            ]
+        },
+        {
+            "book_title": "Crime and Punishment",
+            "author_name": "Dostoyevsky, Fyodor",
+            "quotes_list": [
+                "Pain and suffering are always necessaries of the growth of an individual.",
+                "If anyone can show me where I am wrong, I will give up my life for the truth.",
+                "To go wrong in one's own way is better than to go right in someone else's"
+            ]
+        }
+    ],
+    "tulip": {
+        "book_title": "The black tulip",
+        "author_name": "Dumas, Alexandre",
+        "quotes_list": [
+            "On the 20th of August, 1672, the city of the Hague, always so lively, so neat, and so trim that one might believe every day to be Sunday, with its shady park, with its tall trees, spreading over its Gothic houses, with its canals like large mirrors, in which its steeples and its almost Eastern cupolas are reflected,--the city of the Hague, the capital of the Seven United Provinces, was swelling in all its arteries with a black and red stream of hurried, panting, and restless citizens, who, with their knives in their girdles, muskets on their shoulders, or sticks in their hands, were pushing on to the Buytenhof, a terrible prison, the grated windows of which are still shown, where, on the charge of attempted murder preferred against him by the surgeon Tyckelaer, Cornelius de Witt, the brother of the Grand Pensionary of Holland was confined.",
+            "If the history of that time, and especially that of the year in the middle of which our narrative commences, were not indissolubly connected with the two names just mentioned, the few explanatory pages which we are about to add might appear quite supererogatory; but we will, from the very first, apprise the reader--our old friend, to whom we are wont on the first page to promise amusement, and with whom we always try to keep our word as well as is in our power--that this explanation is as indispensable to the right understanding of our story as to that of the great event itself on which it is based.",
+            "Their national pride held him up as the Mithridates of the Republic."
+        ]
+    },
+    "emma": {
+        "book_title": "Emma",
+        "author_name": "Austen, Jane",
+        "quotes_list": [
+            "Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.",
+            "The real evils, indeed, of Emma's situation were the power of having rather too much her own way, and a disposition to think a little too well of herself; these were the disadvantages which threatened alloy to her many enjoyments. The danger, however, was at present so unperceived, that they did not by any means rank as misfortunes with her.",
+            "Sixteen years had Miss Taylor been in Mr. Woodhouse's family, less as a governess than a friend, very fond of both daughters, but particularly of Emma."
+        ]
+    },
+    "it": [
+        {
+            "book_title": "it",
+            "author_name": "Forster, E. M. (Edward Morgan)",
+            "quotes_list": [
+                "The Signora had no business to do it,” said Miss Bartlett, “no business at all. She promised us south rooms with a view close together, instead of which here are north rooms, looking into a courtyard, and a long way apart. Oh, Lucy!",
+                "I want so to see the Arno. The rooms the Signora promised us in her letter would have looked over the Arno. The Signora had no business to do it at all. Oh, it is a shame!",
+                "Any nook does for me,” Miss Bartlett continued; “but it does seem hard that you shouldn’t have a view."
+            ]
+        },
+        {
+            "book_title": "A Room with a View",
+            "author_name": "Forster, E. M. (Edward Morgan)",
+            "quotes_list": [
+                "The Signora had no business to do it,\" said Miss Bartlett, \"no business at all. She promised us south rooms with a view close together, instead of which here are north rooms, looking into a courtyard, and a long way apart. Oh, Lucy!",
+                "I want so to see the Arno. The rooms the Signora promised us in her letter would have looked over the Arno. The Signora had no business to do it at all. Oh, it is a shame!",
+                "Any nook does for me,\" Miss Bartlett continued; \"but it does seem hard that you shouldn't have a view."
+            ]
+        }
+    ],
+    "wonder": {
+        "book_title": "wonder",
+        "author_name": "Carroll, Lewis",
+        "quotes_list": [
+            "Curiouser and curiouser!",
+            "We're all mad here.",
+            "Off with their heads!"
+        ]
+    },
+    "the republic": {
+        "book_title": "The Republic",
+        "author_name": "Plato",
+        "quotes_list": [
+            "Justice is the interest of the stronger.",
+            "Dictatorship naturally arises out of democracy, and the most violent form of tyranny and slavery out of the most extreme liberty.",
+            "Till philosophers are kings, or the kings and rulers of our states are philosophers, and political power and philosophy thus come into the same hands, there can be no rest from troubles."
+        ]
+    },
+    "mood:melancholic & dark": [
+        {
+            "book_title": "The Sorrows of Young Werther",
+            "author_name": "Goethe, Johann Wolfgang von",
+            "quotes_list": [
+                "How happy I am that I am gone!",
+                "Poor Leonora!",
+                "misunderstandings and neglect occasion more mischief in the world than even malice and wickedness."
+            ]
+        },
+        {
+            "book_title": "Crime and Punishment",
+            "author_name": "Dostoyevsky, Fyodor",
+            "quotes_list": [
+                "Pain and suffering are always inevitable for a large intelligence and a deep heart.",
+                "I lie, lie, lie!",
+                "To forget suffering is not enough; one must be strong enough to bear it."
+            ]
+        }
+    ],
+    "mood:inspirational & motivational": [
+        {
+            "book_title": "As a man thinketh",
+            "author_name": "Allen, James",
+            "quotes_list": [
+                "A man is literally what he thinks, his character being the complete sum of all his thoughts.",
+                "As the plant springs from, and could not be without, the seed, so every act of a man springs from the hidden seeds of thought, and could not have appeared without them.",
+                "Act is the blossom of thought, and joy and suffering are its fruits; thus does a man garner in the sweet and bitter fruitage of his own husbandry."
+            ]
+        },
+        {
+            "book_title": "As a man thinketh",
+            "author_name": "Allen, James",
+            "quotes_list": [
+                "A man is literally _what he thinks,_ his character being the complete sum of all his thoughts.",
+                "Act is the blossom of thought, and joy and suffering are its fruits; thus does a man garner in the sweet and bitter fruitage of his own husbandry.",
+                "They themselves are makers of themselves."
+            ]
+        }
+    ],
+    "mood:romantic & emotional": [
+        {
+            "book_title": "Jane Eyre: An Autobiography",
+            "author_name": "Brontë, Charlotte",
+            "quotes_list": [
+                "Most true is it that 'beauty is in the eye of the gazer.' My master's colourless, olive face, square, massive brow, broad and jetty eyebrows, deep eyes, strong features, firm, grim mouth,—all energy, decision, will,—were not beautiful, according to rule; but they were more than beautiful to me; they were full of an interest, an influence that quite mastered me,—that took my feelings from my own heart.",
+                "I have as much soul as you, and full as much heart!",
+                "Reader, I married him."
+            ]
+        },
+        {
+            "book_title": "Wuthering Heights",
+            "author_name": "Brontë, Emily",
+            "quotes_list": [
+                "He's more myself than I am. Whatever our souls are made of, his and mine are the same.",
+                "If all else perished, and he remained, I should still be; and if all else remained, and he were forgotten, I should be no more.",
+                "I cannot live without my life! I cannot live without my soul!"
+            ]
+        }
+    ],
+    "mood:philosophical & deep": [
+        {
+            "book_title": "Meditations",
+            "author_name": "Marcus Aurelius, Emperor of Rome",
+            "quotes_list": [
+                "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and you have the power to revoke this estimate at any moment.",
+                "The art of living is more like wrestling than dancing.",
+                "Very little is needed to make a happy life; it is all within yourself, in your way of thinking."
+            ]
+        }
+    ]
+}
